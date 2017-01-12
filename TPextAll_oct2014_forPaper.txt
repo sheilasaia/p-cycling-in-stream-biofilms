@@ -1,0 +1,8 @@
+Num	SampleID	Replicate	Period	Extraction	myPppmFix	wetBFg	VolAddedmL	AvgSAm2
+1	start	1	start	TP	7.539510221	1.096	26.5	0.358
+2	start	2	start	TP	7.206695936	1.053	26.5	0.358
+3	start	3	start	TP	7.741969183	1.083	26.5	0.358
+4	T1	1	end	TP	6.061939648	1.06	26.5	0.554
+5	T1	2	end	TP	6.515404518	1.018	26.5	0.545
+6	T2	1	end	TP	8.316617629	1.071	26.5	0.406
+7	T2	2	end	TP	6.955211209	1.054	26.5	0.544
