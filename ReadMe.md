@@ -30,7 +30,7 @@ Sheila Saia was supported by a Cornell University CALS Land Grant Fellowship and
 Please use and distribute according to CC-BY v4.0. For a human readible version of this license visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) .
 
 **Links to publications that cite or use the data**<br>
-As of 20161208 there are no other publications that cite or use these data.
+As of 20170112 there are no other publications that cite or use these data.
 
 **Links to other publicly accessible locations of the data**<br>
 This dataset and associated R code are available at https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms (DOI:XXXXX). The associated publication is available via Freshwater Science (DOI:XXXXX).
