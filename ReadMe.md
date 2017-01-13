@@ -13,7 +13,7 @@ This GitHub repository was created to provide access to collected data, analysis
 Name: Sheila Saia<br>
 Institution: Cornell University<br>
 Address: B62 Riley-Robb Hall, Ithaca, NY 14853<br>
-Email: sms493@cornell.edu<br>
+Email: sms493 at cornell dot edu<br>
 
 **Date of data collection**<br>
 These data were collected during a laboratory experiment from 20151003 to 20151005.
