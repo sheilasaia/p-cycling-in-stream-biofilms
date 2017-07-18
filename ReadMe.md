@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.242599.svg)](https://doi.org/10.5281/zenodo.242599)
 
-This ReadMe.md file was generated on 20170112 by Sheila Saia.
+This ReadMe.md file was generated on 20170718 by Sheila Saia.
 
 This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled 'Evidence for polyphosphate accumulating organism (PAO)-mediated phosphorus cycling in stream biofilms under alternating aerobic/anaerobic conditions' in Freshwater Science.
 
@@ -35,7 +35,7 @@ Please use and distribute according to CC-BY v4.0. For a human readible version 
 As of 20170112 there are no other publications that cite or use these data.
 
 **Links to other publicly accessible locations of the data**<br>
-This dataset and associated R code are available at https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms (DOI:XXXXX). The associated publication is available via Freshwater Science (DOI:XXXXX).
+This dataset and associated R code are available at https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms and via Zenodo (https://doi.org/10.5281/zenodo.242599). The associated publication is available via Freshwater Science (https://doi.org/10.1086/691439).
 
 **Links/relationships to ancillary data sets**<br>
 There are no links to or relationships with other ancillary data sets.
@@ -44,7 +44,7 @@ There are no links to or relationships with other ancillary data sets.
 Data was not derived from another source.
 
 **Recommended citation for the data**<br>
-Saia, S. M., P. J. Sullivan, J. M. Regan, H. J. Carrick, A. R. Buda, N. A. Locke, M. T. Walter. 2017. Evidence for polyphosphate accumulating organism (PAO)-mediated phosphorus cycling in stream biofilms under alternating aerobic/anaerobic conditions. Freshwater Science. XXXXX(XXXXX):XXXXX-XXXXX.
+Saia, S. M., P. J. Sullivan, J. M. Regan, H. J. Carrick, A. R. Buda, N. A. Locke, M. T. Walter. 2017. Evidence for polyphosphate accumulating organism (PAO)-mediated phosphorus cycling in stream biofilms under alternating aerobic/anaerobic conditions. Freshwater Science. 36(2):284-296.
 
 ## Data & File Overview ##
 
