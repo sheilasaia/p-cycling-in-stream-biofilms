@@ -1,5 +1,7 @@
 # "paper-p-cycling-in-stream-biofilms" ReadMe #
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.242599.svg)](https://doi.org/10.5281/zenodo.242599)
+
 This ReadMe.md file was generated on 20170112 by Sheila Saia.
 
 This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled 'Evidence for polyphosphate accumulating organism (PAO)-mediated phosphorus cycling in stream biofilms under alternating aerobic/anaerobic conditions' in Freshwater Science.
