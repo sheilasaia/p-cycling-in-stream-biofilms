@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.242599.svg)](https://doi.org/10.5281/zenodo.242599)
 
-This ReadMe.md file was generated on 20170718 by Sheila Saia.
+This README.md file was generated on 20170718 by Sheila Saia.
 
 This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled 'Evidence for polyphosphate accumulating organism (PAO)-mediated phosphorus cycling in stream biofilms under alternating aerobic/anaerobic conditions' in Freshwater Science.
 
@@ -21,7 +21,7 @@ Email: sms493 at cornell dot edu<br>
 These data were collected during a laboratory experiment from 20151003 to 20151005.
 
 **Geographic location of data collection**<br>
-These data were collected in Cascadilla Creek, Ithaca, NY as well as in the Soil & Water Lab at Cornell University in Ithaca, NY.
+These data were collected in Cascadilla Creek, Ithaca, NY, USA as well as in the Soil & Water Lab at Cornell University in Ithaca, NY, USA.
 
 **Information about funding sources that supported the collection of the data**<br>
 Sheila Saia was supported by a Cornell University CALS Land Grant Fellowship and USEPA STAR Fellowship. This project was supported by a USDA NIFA grant #2014-67019-21636.
