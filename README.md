@@ -1,4 +1,4 @@
-# "paper-p-cycling-in-stream-biofilms" ReadMe #
+# "paper-p-cycling-in-stream-biofilms" README #
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.242599.svg)](https://doi.org/10.5281/zenodo.242599)
 
@@ -36,6 +36,8 @@ As of 20170112 there are no other publications that cite or use these data.
 
 **Links to other publicly accessible locations of the data**<br>
 This dataset and associated R code are available at https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms and via Zenodo (https://doi.org/10.5281/zenodo.242599). The associated publication is available via Freshwater Science (https://doi.org/10.1086/691439).
+
+This dataset is also available on the National Agricultural Library's Ag Data Commons: XXXX.
 
 **Links/relationships to ancillary data sets**<br>
 There are no links to or relationships with other ancillary data sets.
