@@ -37,7 +37,7 @@ As of 20170112 there are no other publications that cite or use these data.
 **Links to other publicly accessible locations of the data**<br>
 This dataset and associated R code are available at https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms and via Zenodo (https://doi.org/10.5281/zenodo.242599). The associated publication is available via Freshwater Science (https://doi.org/10.1086/691439).
 
-This dataset is also available on the National Agricultural Library's Ag Data Commons: XXXX.
+This dataset is also available on the National Agricultural Library's Ag Data Commons at http://bit.ly/2nJYhEb.
 
 **Links/relationships to ancillary data sets**<br>
 There are no links to or relationships with other ancillary data sets.
@@ -88,13 +88,13 @@ Directory name: srp\_analysis <br>
 Short description: This folder contains the raw phosphate (aka srp) data from this experiment (rawPdata\_20141013.xlsx), the R script used to calibrate these data (P\_calibration\_code\_20141013.R), text files that are used as inputs for the R script (pCalib\_, pCheck\_, pData\_, pDI\_), text file outputs of the R script (pNewData\_), and a file that combines these inputs and outputs (Pdata\_20141013.xlsx).
 
 Filename: oct2014experiment\_rawData\_forPaper.xlsx <br>
-Short description: This file has all the processed data in one place and is the source of the text files mentioned in the 'File List' section of this ReadMe file (see tabs with the same names). Briefly, the 'schedule' tab defines the sampling timing and protocol for this experiment as well as the treatment labels. These labels are also explained in the associated Freshwater Science journal article.<br>
+Short description: This file has all the processed data in one place and is the source of the text files mentioned in the 'File List' section of this README file (see tabs with the same names). Briefly, the 'schedule' tab defines the sampling timing and protocol for this experiment as well as the treatment labels. These labels are also explained in the associated Freshwater Science journal article.<br>
 
 **Additional related data collected that was not included in the current data package:**<br>
 All data is included in this package.
 
 **Are there multiple versions of the dataset?**<br>
-No, there are no other versions of this dataset.
+Yes, this dataset is also available on the National Agricultural Library's Ag Data Commons at http://bit.ly/2nJYhEb.
 
 ## Methodological Information ##
 
@@ -108,7 +108,7 @@ See the R scripts in this repository as well as the associated Freshwater Scienc
 The latest version of the R programming lanugage is required to run the R scripts in this repository. R can be downloaded  for free here: [https://www.r-project.org/](https://www.r-project.org/). Microsoft Excel is required to open .xlsx files.
 
 **Standards and calibration information, if appropriate:**<br>
-Information on calibrations are included in the 'Raw Data' section of this ReadMe file.
+Information on calibrations are included in the 'Raw Data' section of this README file.
 
 **Environmental/experimental conditions:**<br>
 See the associated Freshwater Science journal article for a full description of the environmental and experimental conditions used while collecting these data.
